@@ -1,0 +1,102 @@
+#main
+{ 
+color:red;
+font-family:Algerian;
+font-size:100px; 
+}
+
+#header ul
+{
+	font-size:45px;
+	text-decoration: none;
+	
+}
+
+#header ul li
+{
+	margin-left:6px;
+}
+
+#header ul li a{
+	text-decoration:none;
+	color:green;
+}
+
+#m2
+{
+	color:yellow;
+	margin-top: 50px;
+	
+}
+
+#m1
+{
+	color:white;
+	margin-left: 130px;
+	margin-right:130px;
+	margin-top:150px;
+}
+
+#m3
+{
+	color:white;
+    margin-top:50px;
+	font-family:Algerian;
+}
+#m4 
+{
+	 margin-left:90px;
+	 margin-top:70px;
+}
+
+#m5 
+{
+	margin-left:70px;
+
+}
+
+#m6
+{
+	margin-top:15px;
+	font-family:Algerian;
+	color:red;
+}
+
+#m7
+{
+	color:yellow;
+}
+
+#m8
+{
+	font-family:Algerian;
+	color:red;
+	margin-left:70px;
+
+}
+#m9
+{
+	color:yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
